@@ -55,7 +55,7 @@
 | LogisticRegression                       | 0.6531 |
 | Complement Naive Bayes                   | 0.8171 |
 | BERT                                     | 0.9757 |
-| **Meta model над всеми моделями**        | 🟩**0.9859** |
+| **Meta model над всеми моделями**        | **0.9859** |
 | Stacking (без BERT)                      |  0.9770 |
  
 

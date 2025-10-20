@@ -1,4 +1,4 @@
-# Job Salary Prediction (NLP)
+# Sentiment analysis (NLP)
 
 Репозиторий с решением задачи предсказания тона сообщений на английском языке.  
 
